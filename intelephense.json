@@ -1,0 +1,7 @@
+{
+  "intelephense.files.maxSize": 1000000,
+  "intelephense.files.include": [
+    "**/*.php",
+    "C:/Users/snakehackx/Local Sites/fictional-university/app/public/wp-includes/**/*.php"
+  ]
+}
