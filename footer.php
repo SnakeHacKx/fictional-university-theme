@@ -28,6 +28,7 @@
               <li><a href="#">Legal</a></li>
               <li><a href="#">Privacy</a></li>
               <li><a href="#">Careers</a></li>
+              <li><a href="#">Jesu e cueco</a></li>
             </ul>
           </nav>
         </div>
